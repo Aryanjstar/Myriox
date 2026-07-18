@@ -1,0 +1,14 @@
+[project]
+name = "myriox-mcp-plan-server"
+version = "0.1.0"
+description = "MCP server exposing Myriox grid plans (walls, doors, exits, zones) to AI agents"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp[cli]>=1.28.0",
+    "azure-cosmos>=4.16.0",
+    "azure-identity>=1.25.0",
+    "pydantic>=2.13.0",
+]
+
+[project.scripts]
+myriox-mcp-plan-server = "server:main"

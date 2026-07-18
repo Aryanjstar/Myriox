@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ada-4.13.5",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.13.5",
+    "text": "Clear width of an accessible doorway shall be at least 32 inches (0.815m) measured between the face of the door and the opposite stop, with the door open 90 degrees."
+  },
+  {
+    "id": "ada-4.13.6",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.13.6",
+    "text": "Maneuvering clearance on the latch side of a doorway shall be at least 18 inches beyond the latch side of the door, in addition to the door width, on the pull side."
+  },
+  {
+    "id": "ada-4.3.3",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.3.3",
+    "text": "The minimum clear width for a single wheelchair accessible route shall be 36 inches (0.915m) except at doors, where 32 inches minimum clear width is permitted for a maximum depth of 24 inches."
+  },
+  {
+    "id": "ada-4.8.2",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.8.2",
+    "text": "The least possible slope for a ramp on an accessible route shall be used. The maximum slope of a ramp shall be 1:12. The maximum rise for any run shall be 30 inches."
+  },
+  {
+    "id": "ada-4.8.4",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.8.4",
+    "text": "Every accessible ramp with a rise greater than 6 inches shall have handrails on both sides. Handrail height shall be 34 to 38 inches above ramp surface."
+  },
+  {
+    "id": "ada-4.13.9",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.13.9",
+    "text": "Any stairway that is provided as a required means of egress shall have an accessible route (ramp or elevator) available as an alternative for wheelchair and mobility-device users, unless an exception applies."
+  },
+  {
+    "id": "ada-4.10.6",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.10.6",
+    "text": "Elevators serving as part of an accessible route shall have a minimum clear floor area sufficient for wheelchair turning and shall be located on an accessible route from an accessible entrance."
+  },
+  {
+    "id": "ada-4.3.7",
+    "jurisdiction": "us_ada",
+    "code": "ADA 4.3.7",
+    "text": "Where the accessible route makes a 180-degree turn around an obstruction less than 48 inches wide, clear width shall be 42 inches minimum at the turn."
+  },
+  {
+    "id": "ifc-1030.2",
+    "jurisdiction": "us_ifc",
+    "code": "IFC 1030.2",
+    "text": "The clear width of an exit access corridor shall not be less than 44 inches, except that corridors serving fewer than 50 occupants may be 36 inches."
+  },
+  {
+    "id": "ifc-1010.1.1",
+    "jurisdiction": "us_ifc",
+    "code": "IFC 1010.1.1",
+    "text": "The minimum width of a means of egress door shall provide a clear width of not less than 32 inches, and doors shall be capable of opening at least 90 degrees."
+  },
+  {
+    "id": "ifc-1030.6",
+    "jurisdiction": "us_ifc",
+    "code": "IFC 1030.6",
+    "text": "Exit access travel distance shall not exceed 250 feet in a building not equipped with an automatic sprinkler system, and shall not exceed 300 feet where sprinklered."
+  },
+  {
+    "id": "ifc-1031.1",
+    "jurisdiction": "us_ifc",
+    "code": "IFC 1031.1",
+    "text": "Every space occupied shall have access to at least two independent exits, unless the space qualifies for a single exit exception based on occupant load and travel distance."
+  }
+]

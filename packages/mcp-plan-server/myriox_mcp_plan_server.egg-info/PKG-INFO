@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: myriox-mcp-plan-server
+Version: 0.1.0
+Summary: MCP server exposing Myriox grid plans (walls, doors, exits, zones) to AI agents
+Requires-Python: >=3.11
+Requires-Dist: mcp[cli]>=1.28.0
+Requires-Dist: azure-cosmos>=4.16.0
+Requires-Dist: azure-identity>=1.25.0
+Requires-Dist: pydantic>=2.13.0

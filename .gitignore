@@ -1,0 +1,25 @@
+.DS_Store
+*.zip
+
+# Python
+**/.venv/
+**/__pycache__/
+*.py[cod]
+
+# JavaScript / Next.js / Node
+**/node_modules/
+**/.next/
+**/out/
+**/coverage/
+**/.turbo/
+**/*.tsbuildinfo
+
+# Environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local tool state
+**/.vercel/
+**/.history/
+**/*.local
