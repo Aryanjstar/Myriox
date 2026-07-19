@@ -22,6 +22,11 @@ plans and larger persona mixes are fully supported, but each agent reasons via a
 call every tick, so more agents and bigger plans take proportionally longer — see
 "Performance" below.
 
+### 🎬 Video Walkthrough  
+See Myriox in action!
+
+📽️ Demo Video: https://youtu.be/t_e-CtLxn_Q
+
 ## How it works
 
 ```mermaid
