@@ -25,7 +25,7 @@ call every tick, so more agents and bigger plans take proportionally longer — 
 ### 🎬 Video Walkthrough  
 See Myriox in action!
 
-📽️ Demo Video: https://youtu.be/t_e-CtLxn_Q
+📽️ Demo Video: https://www.youtube.com/watch?v=IfA1XU-qBrU
 
 ## How it works
 
