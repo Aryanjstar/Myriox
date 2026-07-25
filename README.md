@@ -1,7 +1,5 @@
 # Myriox
 
-**Built with OpenAI Codex** · OpenAI × NamasteDev Hackathon, July 2026
-
 Myriox is a multi-service simulation platform for stress-testing site plans and user flows
 before construction. It models real human intent with persona-driven agents, detects
 bottlenecks, and produces cited accessibility and compliance findings from the walk itself.
